@@ -1,7 +1,7 @@
 # China-Railway-Trip-Information-Reminder-Generator
 中国铁路行程信息提示生成器
 <br />
-最新版本：1.0 2024.7.10
+最新版本：1.2 2024.7.23
 如果有任何问题或者建议，请及时与本人联系（lijiaxuan1811@163.com）或提交Issue，不胜感激！
 <br />
 使用方法：
